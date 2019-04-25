@@ -7,7 +7,7 @@
         <version>2.1.4.RELEASE</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.spinku.co.id</groupId>
+    <groupId>com.domain.co.id</groupId>
     <artifactId>OpenFireRestService</artifactId>
     <version>1.0</version>
     <packaging>war</packaging>
